@@ -1,6 +1,5 @@
 # OVRLand Monthly ChainLink Extraction
 
-### The 10% of the OVR tokens realized from OVRLand monthly sale is being distributed to lucky OVRLand owners who bought OVRLand during each month under consideration. Ten (10) lucky winners are being randomly selected using the Chainlink’s VRF every month. However, it is important to note that in every succeeding extraction we remove the OVRLands of the winner of the previous extraction so the person can’t win twice.]
 
 ## Contract Address: [0xcb0e2493f2d014fa0f10a62ec7ce06cb32efcbb9](https://polygonscan.com/address/0xcb0e2493f2d014fa0f10a62ec7ce06cb32efcbb9)
 
