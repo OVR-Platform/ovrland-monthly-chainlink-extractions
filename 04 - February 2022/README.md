@@ -1,0 +1,16 @@
+# February 2022 Winners
+
+|                                       Winners                                        | Extraction | UUID                                 | Extracted Number | Transaction                                                                                             |
+| :----------------------------------------------------------------------------------: | :--------- | :----------------------------------- | :--------------- | :------------------------------------------------------------------------------------------------------ |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px"> | 67         | 9b2f2727-6481-481f-bf92-61dcd5b69eb8 | 12080            | [Etherscan](https://etherscan.io/tx/0xc39ee062310c7404fc9ac73c590becf2c40d31dc9a092455b06d445c9c3f3024) |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px"> | 68         | 32ffe74f-e56f-4416-aa59-120a0ce2cd9c | 11609            | [Etherscan](https://etherscan.io/tx/0x548922958ed267c165e05ae0eeaa9748dcb69b63a6969f13492064e9f2010b30) |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px"> | 69         | 211ffc18-e29a-4af0-8402-0ff9b283e441 | 29941            | [Etherscan](https://etherscan.io/tx/0x618906a236879be5eafcd396dc3ed7aa9fcbb3a8cf5a0f9eef146774503d90dc) |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px"> | 70         | db359cb7-945a-4d1a-8cdc-3131a7ed5866 | 2930           | [Etherscan](https://etherscan.io/tx/0x8d24293b2248f096114a01aceea973b64d4845cbf0c9815d3aa59d9bc1dd50a8) |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px"> | 71         | 962c7f2c-02eb-4f31-9fdf-9470b413cb5d | 18179            | [Etherscan](https://etherscan.io/tx/0x04ed0f99de96970f99d167af58297dfc439585c5dd5b7c83d794fe6df1766ee8) |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px"> | 72         | a78825a5-523e-45fe-ba25-270779f9cff3 | 17787           | [Etherscan](https://etherscan.io/tx/0x2dfdb6b288efa5197c97743994a3c6e694f44d297bcba57fab30270a02600894) |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px"> | 73         | 9c8e03c7-7d48-11ec-9517-c35124fc1be5 | 4951            | [Etherscan](https://etherscan.io/tx/0x0c290559d662c79759d1876680d15b9c8c88bb1900e1464e9296c46bc62381c1) |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px"> | 74         | 5c663678-23d3-4c1f-81a1-972941ec3c57 | 4542            | [Etherscan](https://etherscan.io/tx/0x63354b64fc24d8560bf8ba2a04c8ad3c4d5e8d411a7b2a41ed3639bcc0d002f7) |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px"> | 75         | 48408400-93a9-11eb-bbca-00163e0053f7 | 15993           | [Etherscan](https://etherscan.io/tx/0x65c0b36d365f2527d7f0813be557dc376a374bd899b9c106642c7b6c6bf70abe) |
+| <img src="../prize.svg" style="height: 40px; margin-top: 10px; margin-bottom: 10px"> | 76         | e6e000ad-e5ff-46a8-814b-0e04a06684a1 | 23999            | [Etherscan](https://etherscan.io/tx/0x609e915f681cd6f56cedb61c2c009f71e34762503020d03a975e1e82f96e91b5) |
+
+
